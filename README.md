@@ -26,6 +26,7 @@
 
 * Note: This does not indicate my skill level or preference for a development language.
 
+<hr>
 <p>
   ✨ Did you like this README style? I'm glad to help you.
   <ul>
